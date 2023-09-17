@@ -1,8 +1,11 @@
 # `Jan Tokic`
 
-![jantokic's GitHub stats](https://github-readme-stats.vercel.app/api?username=jantokic&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jantokic&theme=react&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/jantokic">
+  <img height=200 align="center" src="https://github-readme-stats-three-topaz-49.vercel.app/api?username=jantokic&theme=rose_pine" />
+</a>
+<a href="https://github.com/jantokic">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jantokic&theme=dracula&border_radius=4" />
+</a>
 
 ---
 
@@ -14,6 +17,5 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jantokic&layout=compact)](https://github.com/jantokic/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=compact)
 ---
