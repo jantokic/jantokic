@@ -1,21 +1,18 @@
 # `Jan Tokic`
 
-<a href="https://github.com/jantokic">
-  <img height=200 align="center" src="https://github-readme-stats-three-topaz-49.vercel.app/api?username=jantokic&theme=rose_pine&count_private=true" />
-</a>
-<a href="https://github.com/jantokic">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jantokic&theme=dracula&border_radius=4&count_private=true" />
-</a>
+![jantokic's GitHub stats](https://github-readme-stats.vercel.app/api?username=jantokic&theme=rose_pine&count_private=true&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jantokic&theme=dracula&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🚀 About Me
 
-`Full-Stack Web Developer` working on `copile`.
+`Full-Stack Developer` working on `copile`.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=compact)
+![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=compact&langs_count=8&hide=CMake,Makefile)
 ---
