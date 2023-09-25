@@ -2,7 +2,7 @@
 
 ![jantokic's GitHub stats](https://github-readme-stats-three-topaz-49.vercel.app/api?username=jantokic&theme=rose_pine&count_private=true&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jantokic&theme=dracula&hide_border=true&count_private=true)]
+![GitHub Streak](https://streak-stats.demolab.com?user=jantokic&theme=dracula&hide_border=true&count_private=true)
 
 ---
 
