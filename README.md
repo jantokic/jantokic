@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-`Full-Stack Developer` working on `copile`. Improving every day
+`Full-Stack Developer`. Improving every day
 
 ---
 
