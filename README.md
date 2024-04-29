@@ -12,5 +12,5 @@
 
 ## 📈 Languages
 
-![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=donut&langs_count=&hide=CMake,Makefile)
+![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=donut&langs_count=5&hide=CMake,Makefile)
 ---
