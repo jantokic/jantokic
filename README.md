@@ -1,14 +1,13 @@
-<h3>hey, i'm jan</h3>
+## Jan Tokic
 
-building things in munich. cs @ tum.
+I build AI products end to end: the model calls, the data they run on, the evals that keep them honest, and the infrastructure underneath. TypeScript, Python, Go.
 
-<br />
+Recently: the AI side of an investing app at [starc.](https://starcinvest.com), from zero to the App Store. Before that, two years at [Vendure](https://vendure.io), the open-source commerce platform, building enterprise B2B shops and a rules-based product configurator.
 
-<div>
-  <img height="170" src="https://github-readme-stats-three-topaz-49.vercel.app/api?username=jantokic&hide_border=true&count_private=true&show_icons=true&theme=github_dark&icon_color=79c0ff&text_color=c9d1d9&title_color=58a6ff&bg_color=0d1117&rank_icon=percentile" />
-  <img height="170" src="https://streak-stats.demolab.com?user=jantokic&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
-</div>
+Things here worth opening:
 
-<br />
+- **[chtype](https://github.com/jantokic/chtype)** — a type-safe ClickHouse toolkit for TypeScript I built because my own analytics platform needed one. [npm](https://www.npmjs.com/package/@jantokic/chtype) · [docs](https://chtype.jantokic.com)
+- **[Synapse](https://github.com/synapsedotai/synapse)** — semantic expert search built in 36 hours. 2nd place, TUM.AI × Anthropic Hackathon. [demo](https://www.youtube.com/watch?v=H_io8qfVFmg)
+- **[Vendure PRs](https://github.com/vendurehq/vendure/pulls?q=is%3Apr+author%3Ajantokic+is%3Amerged)** — the public slice of two years on the team
 
-<img src="https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff&bg_color=0d1117&hide=CMake,Makefile&langs_count=6" />
+Munich · [jantokic.com](https://jantokic.com) · [jan@jantokic.com](mailto:jan@jantokic.com) · [LinkedIn](https://linkedin.com/in/jan-tokic)
